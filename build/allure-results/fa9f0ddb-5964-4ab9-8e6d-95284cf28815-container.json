@@ -1,0 +1,1 @@
+{"uuid":"fa9f0ddb-5964-4ab9-8e6d-95284cf28815","name":"DragAndDropTest","children":["2c9e0f3c-4291-4366-9f7a-53baa5ce15d3"],"befores":[{"name":"configure","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1666179237142,"stop":1666179237158}],"afters":[],"start":1666179237112,"stop":1666179244293}

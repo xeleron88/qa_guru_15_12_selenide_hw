@@ -1,0 +1,1 @@
+{"uuid":"da700a1f-19f1-4bce-a62d-155be7996d40","name":"GithubTest","children":["bf6cc903-a050-4437-be19-97903cd5d3de"],"befores":[{"name":"configure","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1666178223209,"stop":1666178223224}],"afters":[],"start":1666178223177,"stop":1666178275385}
