@@ -14,7 +14,7 @@ public class GithubTest extends TestBase {
     void githubTest() {
             githubMainPage.openPage("https://github.com");
             githubMainPage.howerSolutions();
-            githubMainPage.enterpriceClick();
+            githubMainPage.enterPriceClick();
             githubEnterpricePage.checkH1Text();
     }
 }

@@ -23,7 +23,7 @@ public class GithubMainPage {
     }
 
     @Step("Click to the Enterprice link")
-    public GithubMainPage enterpriceClick() {
+    public GithubMainPage enterPriceClick() {
         $$(".HeaderMenu-dropdown-link").findBy(text("Enterprise")).click();
 
         return this;
